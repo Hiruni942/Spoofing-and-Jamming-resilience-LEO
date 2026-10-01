@@ -1,0 +1,20 @@
+# Core dependencies
+numpy>=1.20.0
+matplotlib>=3.4.0
+
+# Development dependencies (optional)
+# pytest>=7.0
+# pytest-cov>=3.0
+# black>=22.0
+# isort>=5.10
+# flake8>=4.0
+# mypy>=0.960
+
+# Jupyter (optional)
+# jupyter>=1.0
+# jupyterlab>=3.0
+# notebook>=6.4
+
+# Documentation (optional)
+# sphinx>=4.5
+# sphinx-rtd-theme>=1.0
